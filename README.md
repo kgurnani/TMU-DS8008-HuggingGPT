@@ -11,4 +11,4 @@ We breakdown the code presented in the HuggingGPT paper and go through the main 
 replicating one of the examples presented: recognizing toppings in a pizza.
 
 ## Reference Paper
-![HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580)
+[HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580)
